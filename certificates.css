@@ -1,0 +1,87 @@
+body.dark-theme {
+    background-color:#0f172a;
+    color: white;
+}
+body.dark-theme .card{
+    background-color:#0f172a;
+    color: white;
+}
+body.dark-theme .navbar{
+    background-color:#0f172a !important;
+    color: white !important;
+}
+body.dark-theme .nav-link , body.dark-theme .nav-link.active {
+    color: white;
+}
+body.dark-theme .navbar-brand{
+    color: white;
+}
+
+
+
+
+
+
+
+.bac {
+    background-color: #0f172a;
+}
+
+#loadingsc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000000000;
+}
+
+.hided {
+    opacity: 0;
+    visibility: hidden;
+}
+.dar {
+    width: 40px;
+    height: 40px;
+}
+
+.navbar .nav-item .active {
+    border-bottom: 2px solid #fff;
+}
+
+.navbar .nav-item :hover {
+    border-bottom: 2px solid blue;
+}   
+.h2 {
+    font-size: 40px;
+}
+
+.secc {
+    margin-top: 157px;
+}
+
+.bcc {
+    background:repeating-linear-gradient(135deg, rgba(37,99,235,.12), rgba(37,99,235,.12) 10px, rgba(37,99,235,.04) 10px, rgba(37,99,235,.04) 20px);
+}
+
+
+.con {
+    background-color:#0f172a;
+    color: white;
+}
+
+.widget {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    background-color: rgba(0, 0, 0, 0.384);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.wid{
+    display: none;
+}
+

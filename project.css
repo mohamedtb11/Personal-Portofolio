@@ -1,0 +1,73 @@
+body.dark-theme {
+    background-color:#0f172a;
+    color: white;
+}
+body.dark-theme .card{
+    background-color:#0f172a;
+    color: white;
+}
+body.dark-theme .navbar{
+    background-color:#0f172a !important;
+    color: white !important;
+}
+body.dark-theme .nav-link , body.dark-theme .nav-link.active {
+    color: white;
+}
+body.dark-theme .navbar-brand{
+    color: white;
+}
+
+
+
+
+
+
+
+.bac {
+    background-color: #0f172a;
+}
+
+#loadingsc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000000000;
+}
+
+.hided {
+    opacity: 0;
+    visibility: hidden;
+}
+.dar {
+    width: 40px;
+    height: 40px;
+}
+
+.navbar .nav-item .active {
+    border-bottom: 2px solid #fff;
+}
+
+.navbar .nav-item :hover {
+    border-bottom: 2px solid blue;
+}
+.h2 {
+    font-size: 40px;
+}
+
+.mot {
+    margin-top: 157px ;
+}
+
+.ca {
+    width: 25rem;
+    height: 28rem;
+}
+
+.bcc {
+    background:linear-gradient(to bottom, #285edf, #0f1b31) ;
+}
+
+.con {
+    background-color:#0f172a;
+    color: white;
+}
